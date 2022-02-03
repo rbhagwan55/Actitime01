@@ -8,7 +8,7 @@ import org.openqa.selenium.support.PageFactory;
 public class ActiTimeHeader {
 	
  // hii
-	// bhagwan
+	
 	@FindBy (xpath="//a[@class='content users']")  ////a[@class='content users']
 	private WebElement clickOnUser;
 	
